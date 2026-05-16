@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # Hi, I'm Santosh Singh 👋
 
 ## Cloud & DevOps Engineer | Cloud Governance | DevSecOps

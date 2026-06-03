@@ -213,7 +213,6 @@ https://github.com/santoshsingh7891
 - DevSecOps
 - Platform Engineering
 - Cloud Governance
-- Site Reliability Engineering (SRE)
 
 ---
 
